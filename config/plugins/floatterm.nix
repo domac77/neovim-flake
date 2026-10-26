@@ -1,4 +1,3 @@
-{ myLib, ... }:
 {
   plugins.floaterm.enable = true;
   keymaps = [
